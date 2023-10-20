@@ -9,10 +9,7 @@ const Inicio = () => {
   };
 
   return (
-    <div
-      className="w-full h-screen bg-blue-200 justify-center items-center flex flex-col"
-      id="solucao"
-    >
+    <div className="w-full h-screen bg-blue-200 justify-center items-center flex flex-col">
       <img
         src="/plantailogosvg.svg"
         className="w-60 lg:w-80 rounded-full animate-spin-slow"

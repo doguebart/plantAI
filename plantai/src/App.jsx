@@ -1,12 +1,14 @@
 import React from "react";
 import Menu from "./components/menu";
-import Inicio from "./components/sections";
+import Inicio from "./components/sections/inicio";
+import Solucao from "./components/sections/solucao";
 
 const App = () => {
   return (
-    <div className="w-full h-screen bg-white">
+    <div className="w-full h-full bg-white">
       <Menu />
       <Inicio />
+      <Solucao />
     </div>
   );
 };
