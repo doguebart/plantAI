@@ -2,6 +2,7 @@ import React from "react";
 import Menu from "./components/menu";
 import Inicio from "./components/sections/inicio";
 import Solucao from "./components/sections/solucao";
+import Parceiros from "./components/sections/parceiros";
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <Menu />
       <Inicio />
       <Solucao />
+      <Parceiros />
     </div>
   );
 };

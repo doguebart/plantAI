@@ -1,0 +1,22 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_273_357)">
+<path d="M21.0222 29.2403L19.2179 32.5277" stroke="#367EF7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29.121 22.2781C30.0232 20.6344 28.8555 19.2806 27.0365 18.2822C25.2174 17.2838 23.7491 16.4779 22.5462 18.6695C20.7419 21.9569 27.3168 25.5655 25.5125 28.8529C24.3096 31.0445 22.8413 30.2386 21.0222 29.2402C19.2032 28.2419 18.1919 26.6032 18.9377 25.2444" stroke="#367EF7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27.0365 18.2822L28.8408 14.9948" stroke="#367EF7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31.8479 9.51578C23.9803 5.19772 14.1019 8.07515 9.78387 15.9427C5.46581 23.8102 8.34324 33.6886 16.2108 38.0067C24.0783 42.3247 33.9567 39.4473 38.2748 31.5798C42.5928 23.7122 39.7154 13.8338 31.8479 9.51578Z" stroke="#367EF7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g clip-path="url(#clip1_273_357)">
+<path d="M21.1424 29.0211L19.4103 32.177" stroke="#367EF7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.9174 22.3374C29.7834 20.7595 28.6624 19.4598 26.9162 18.5014C25.1699 17.5429 23.7603 16.7693 22.6055 18.8732C20.8734 22.0291 27.1852 25.4933 25.4531 28.6493C24.2984 30.7532 22.8888 29.9795 21.1425 29.0211C19.3962 28.0627 18.4254 26.4895 19.1413 25.185" stroke="#367EF7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26.9162 18.5014L28.6483 15.3455" stroke="#367EF7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31.5351 10.0856C23.9823 5.94025 14.499 8.70258 10.3537 16.2554C6.20835 23.8083 8.97068 33.2915 16.5235 37.4369C24.0764 41.5822 33.5596 38.8199 37.705 31.267C41.8503 23.7142 39.088 14.2309 31.5351 10.0856Z" stroke="#367EF7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_273_357">
+<rect width="35" height="35" fill="white" transform="translate(30.9506 47.5225) rotate(-151.24)"/>
+</clipPath>
+<clipPath id="clip1_273_357">
+<rect width="33.6" height="33.6" fill="white" transform="translate(30.6738 46.572) rotate(-151.24)"/>
+</clipPath>
+</defs>
+</svg>
