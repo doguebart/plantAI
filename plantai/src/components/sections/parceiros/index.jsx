@@ -17,7 +17,7 @@ const Parceiros = () => {
           <div className="flex m-auto">
             <img
               src="/Proposta Template.svg"
-              className="w-72 md:w-[400px] lg:w-[400px] left-4 md:left-0 relative z-0"
+              className="w-72 md:w-[300px] lg:w-[400px] left-4 md:left-0 relative z-0"
               alt=""
             />
           </div>

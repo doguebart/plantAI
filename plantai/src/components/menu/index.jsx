@@ -49,7 +49,7 @@ const Menu = () => {
             smooth={true}
             duration={500}
             onClick={closeMenu}
-            className="text-white font-medium text-sm py-2 hover:border-b duration-200 whitespace-nowrap cursor-pointer"
+            className="text-white font-medium text-md py-2 hover:border-b duration-200 whitespace-nowrap cursor-pointer"
           >
             Nossa Solução
           </Link>
@@ -61,7 +61,7 @@ const Menu = () => {
             smooth={true}
             duration={500}
             onClick={closeMenu}
-            className="text-white font-medium text-sm py-2 hover:border-b duration-200 whitespace-nowrap cursor-pointer"
+            className="text-white font-medium text-md py-2 hover:border-b duration-200 whitespace-nowrap cursor-pointer"
           >
             Parceiros
           </Link>
@@ -73,7 +73,7 @@ const Menu = () => {
             smooth={true}
             duration={500}
             onClick={closeMenu}
-            className="text-white font-medium text-sm py-2 hover:border-b duration-200 whitespace-nowrap cursor-pointer"
+            className="text-white font-medium text-md py-2 hover:border-b duration-200 whitespace-nowrap cursor-pointer"
           >
             Quem Somos
           </Link>

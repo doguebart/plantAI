@@ -16,18 +16,7 @@ const Solucao = () => {
           a ser aplicada
         </p>
         <div className="w-full max-h-full flex mt-10 items-center justify-center self-center">
-          <div className="flex m-auto">
-            <img
-              src="/Avaliacao Detalhada Template.svg"
-              className="w-60 md:w-[400px] lg:w-[400px] left-4 md:left-10 lg:left-40 relative z-0"
-              alt=""
-            />
-            <img
-              src="/Avaliacoes Template.svg"
-              className="w-60 md:w-[400px] lg:w-[400px] right-28 top-14 md:right-36 md:top-14 lg:right-0 lg:top-10 relative z-9"
-              alt=""
-            />
-          </div>
+          <img src="/phonetemplate.svg" className="w-82 lg:w-[500px]" alt="" />
         </div>
       </div>
     </div>
