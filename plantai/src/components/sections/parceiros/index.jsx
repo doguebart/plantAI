@@ -3,7 +3,7 @@ import React from "react";
 const Parceiros = () => {
   return (
     <div
-      className="w-full lg:w-2/3 m-auto h-screen items-center justify-center flex flex-col md:px-14 mt-20 relative"
+      className="w-full lg:w-2/3 m-auto h-full items-center justify-center flex flex-col md:px-14 mt-20 relative"
       id="parceiros"
     >
       <div className="w-full mt-20">

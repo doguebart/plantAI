@@ -3,7 +3,7 @@ import React from "react";
 const Solucao = () => {
   return (
     <div
-      className="w-full lg:w-2/3 m-auto h-screen justify-center flex flex-col md:px-14 lg:px-20 mt-20 relative"
+      className="w-full lg:w-2/3 m-auto h-full justify-center flex flex-col md:px-14 lg:px-20 mt-20 relative"
       id="solucao"
     >
       <div className="mt-20">
@@ -16,7 +16,7 @@ const Solucao = () => {
           a ser aplicada
         </p>
         <div className="w-full max-h-full flex mt-10 items-center justify-center self-center">
-          <img src="/phonetemplate.svg" className="w-82 lg:w-[500px]" alt="" />
+          <img src="/phonetemplate.svg" className="w-82 md:w-96 lg:w-[500px]" alt="" />
         </div>
       </div>
     </div>
