@@ -21,12 +21,17 @@ const Menu = () => {
   return (
     <nav className="w-full p-4 bg-blue-500 md:flex md:justify-around md:items-center fixed top-0 z-10">
       <div className="flex justify-between items-center max-w-full">
-        <Link to="/" onClick={scrollToTop} className="cursor-pointer">
+        <Link
+          to="/"
+          onClick={scrollToTop}
+          className="flex items-center space-x-2 md:space-x-4 cursor-pointer"
+        >
           <img
             src="/plantailogo.png"
             className="w-10 h-10 rounded-full shadow-md"
             alt="Plant AI logo"
           />
+          <h1 className="text-white font-bold text-xl">Plantai</h1>
         </Link>
 
         <span

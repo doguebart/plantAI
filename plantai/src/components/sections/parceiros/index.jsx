@@ -8,10 +8,18 @@ const Parceiros = () => {
     >
       <div className="w-full mt-20">
         <h2 className="text-center md:text-start text-2xl font-bold text-blue-500">
-          Parceiros
+          Seja um Parceiro do PlantAI!
         </h2>
         <p className="m-auto px-4 md:px-0 lg:px-0 text-center md:text-start text-lg text-black text-medium mt-8 lg:mt-4">
-          Divulgamos diretamente seu produto
+          O PlantAI é mais do que um aplicativo, é uma comunidade dedicada à
+          ajudar agricultores e ampliar a rede de contato de fornecedores. Se
+          você deseja fazer parte dessa jornada, convidamos você a se tornar um
+          parceiro do PlantAI.
+        </p>
+        <br />
+        <p className="m-auto px-4 md:px-0 lg:px-0 text-center md:text-start text-lg text-black text-medium mt-8 lg:mt-4">
+          Entre em contato conosco e junte-se à nossa missão. Vamos crescer
+          juntos!
         </p>
         <div className="w-full max-h-full flex mt-10 items-center justify-center self-center">
           <div className="flex m-auto">

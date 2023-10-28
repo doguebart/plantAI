@@ -23,7 +23,7 @@ const Inicio = () => {
         spy={true}
         smooth={true}
         duration={500}
-        className="mt-4 text-2xl text-blue-500 cursor-pointer"
+        className="mt-4 text-4xl animate-bounce text-blue-500 cursor-pointer"
       >
         <FiArrowDownCircle />
       </Link>
