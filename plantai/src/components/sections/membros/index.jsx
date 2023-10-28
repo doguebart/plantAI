@@ -96,7 +96,7 @@ const Membros = () => {
           <Slider {...settings}>
             {members.map((member, index) => (
               <div key={index} className="px-4">
-                <div className="flex flex-col w-full h-[600px] md:h-[600px] p-4 rounded-sm bg-blue-500 shadow-md">
+                <div className="flex flex-col w-full h-[600px] md:h-[500px] p-4 rounded-sm bg-blue-500 shadow-md">
                   <div className="flex max-w-full">
                     <a
                       href={member.linkedin}
@@ -108,7 +108,7 @@ const Membros = () => {
                   </div>
                   <img
                     src={member.image}
-                    className="w-32 border-2 m-auto shadow-md rounded-full mt-10"
+                    className="w-32 border-2 m-0 self-center shadow-md rounded-full mt-10"
                     alt="member picture"
                   />
                   <span className="text-white font-bold text-lg text-center mt-4">
