@@ -31,7 +31,7 @@ const Menu = () => {
             className="w-10 h-10 rounded-full shadow-md"
             alt="Plant AI logo"
           />
-          <h1 className="text-white font-bold text-xl">Plantai</h1>
+          <h1 className="text-white font-bold text-md md:text-xl">Plantai</h1>
         </Link>
 
         <span
@@ -57,6 +57,18 @@ const Menu = () => {
             className="text-white font-medium text-md py-2 hover:border-b duration-200 whitespace-nowrap cursor-pointer"
           >
             Nossa Solução
+          </Link>
+        </li>
+        <li>
+          <Link
+            to="missao"
+            spy={true}
+            smooth={true}
+            duration={500}
+            onClick={closeMenu}
+            className="text-white font-medium text-md py-2 hover:border-b duration-200 whitespace-nowrap cursor-pointer"
+          >
+            Missão, Visão e Valores
           </Link>
         </li>
         <li>

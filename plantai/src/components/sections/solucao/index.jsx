@@ -3,7 +3,7 @@ import React from "react";
 const Solucao = () => {
   return (
     <div
-      className="w-full lg:w-2/3 m-auto h-full justify-center flex flex-col md:px-14 lg:px-20 mt-20 relative"
+      className="w-full lg:w-2/3 m-auto h-full justify-center flex flex-col md:px-14 mt-20 relative"
       id="solucao"
     >
       <div className="mt-20">

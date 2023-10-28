@@ -4,6 +4,7 @@ import Inicio from "./components/sections/inicio";
 import Solucao from "./components/sections/solucao";
 import Parceiros from "./components/sections/parceiros";
 import Membros from "./components/sections/membros";
+import Missao from "./components/sections/missao";
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <Menu />
       <Inicio />
       <Solucao />
+      <Missao />
       <Parceiros />
       <Membros />
     </div>

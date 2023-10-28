@@ -16,7 +16,7 @@ const Membros = () => {
     customPaging: (i) => {
       return (
         <div
-          className={`mt-4 md:mt-10 rounded-full h-3 w-3 ${
+          className={`mt-10 rounded-full h-3 w-3 ${
             i === i ? "bg-blue-500" : "bg-gray-300"
           }`}
         />
@@ -81,7 +81,7 @@ const Membros = () => {
       className="w-full lg:w-2/3 m-auto h-full items-center justify-center flex flex-col md:px-14 my-20 relative"
       id="quem-somos"
     >
-      <div className="w-full mt-20">
+      <div className="w-full px-4 md:px-0 mt-20">
         <h2 className="text-center md:text-start text-2xl font-bold text-blue-500">
           Quem Somos
         </h2>
@@ -92,11 +92,11 @@ const Membros = () => {
           que o usuário possa manter a qualidade e o rendimento da safra para,
           futuramente, precificá-la.
         </p>
-        <div className="px-4 lg:px-0 mt-10">
+        <div className="max-w-full mx-0 mt-10">
           <Slider {...settings}>
             {members.map((member, index) => (
-              <div key={index} className="p-4">
-                <div className="flex flex-col w-full min-h-full lg:h-[500px] p-4 rounded-sm bg-blue-500 shadow-md">
+              <div key={index} className="px-4">
+                <div className="flex flex-col w-full h-[600px] md:h-[600px] p-4 rounded-sm bg-blue-500 shadow-md">
                   <div className="flex max-w-full">
                     <a
                       href={member.linkedin}
@@ -117,7 +117,7 @@ const Membros = () => {
                   <span className="text-white/50 text-center">
                     {member.role}
                   </span>
-                  <p className="text-white/50 text-md lg:text-sm text-center font-normal mt-6">
+                  <p className="text-white/50 text-md text-center font-normal mt-6">
                     {member.description}
                   </p>
                 </div>

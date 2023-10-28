@@ -17,10 +17,6 @@ const Parceiros = () => {
           parceiro do PlantAI.
         </p>
         <br />
-        <p className="m-auto px-4 md:px-0 lg:px-0 text-center md:text-start text-lg text-black text-medium mt-8 lg:mt-4">
-          Entre em contato conosco e junte-se à nossa missão. Vamos crescer
-          juntos!
-        </p>
         <div className="w-full max-h-full flex mt-10 items-center justify-center self-center">
           <div className="flex m-auto">
             <img
@@ -30,6 +26,10 @@ const Parceiros = () => {
             />
           </div>
         </div>
+        <p className="m-auto px-4 md:px-0 lg:px-0 text-center md:text-start text-lg text-black text-medium mt-8 lg:mt-4">
+          Entre em contato conosco e junte-se à nossa missão. Vamos crescer
+          juntos!
+        </p>
       </div>
     </div>
   );
